@@ -178,7 +178,7 @@ class Zona():
             textrect = textrot.get_rect()
             textrect.center = (self.posicion[0], yLinea)
             pantalla.blit(textrot, textrect)
-            yLinea = yLinea + fuente.get_height() + int(10*scale)
+            yLinea = yLinea + fuente.get_height() + int(5*scale)
 
 
 class Nivel():
