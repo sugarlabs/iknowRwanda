@@ -55,6 +55,6 @@ CREDITS = [
     _("For more information visit http://ceibaljam.org"),
     "",
     _("This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"),
-    _("Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."),
+    _("Sounds downloaded from freesound.org: junggle_btn117.wav courtesy of junggle."),
     _("Font: Share-Regular.ttf of urbanfonts.com")
 ]
