@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-26 00:32-0400\n"
-"PO-Revision-Date: 2013-07-12 06:57+0200\n"
+"PO-Revision-Date: 2013-07-13 01:07+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
@@ -258,6 +258,9 @@ msgid ""
 "Democratic of\n"
 "Congo"
 msgstr ""
+"Կոնգոյի\n"
+"Դեմոկրատական\n"
+"Հանրապետություն"
 
 #: recursos/0rwanda/datos/0rwanda.py:14
 msgid ""
@@ -265,14 +268,17 @@ msgid ""
 "Republic of\n"
 "Tanzania"
 msgstr ""
+"Տանզանիայի\n"
+"Միացյալ\n"
+"Հանրապետությունը"
 
 #: recursos/0rwanda/datos/0rwanda.py:15
 msgid "Uganda"
-msgstr ""
+msgstr "Ուգանդա"
 
 #: recursos/0rwanda/datos/0rwanda.py:16
 msgid "Burundi"
-msgstr ""
+msgstr "Բուրունդի"
 
 #: recursos/0rwanda/datos/0rwanda.py:21 recursos/0rwanda/datos/levels.py:12
 msgid "Nyanza"
@@ -617,7 +623,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:121
 msgid "Capital:"
-msgstr ""
+msgstr "Մայրաքաղաք."
 
 #: recursos/0rwanda/datos/0rwanda.py:121
 msgid "(1°57′ S - 30°4′ W)"
@@ -625,7 +631,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:122
 msgid "Language:"
-msgstr ""
+msgstr "Լեզու."
 
 #: recursos/0rwanda/datos/0rwanda.py:122
 msgid "Kinyarwanda"
@@ -633,15 +639,15 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:122
 msgid "French"
-msgstr ""
+msgstr "Ֆրանսերեն"
 
 #: recursos/0rwanda/datos/0rwanda.py:122
 msgid "English"
-msgstr ""
+msgstr "Անգլերեն"
 
 #: recursos/0rwanda/datos/0rwanda.py:123
 msgid "Government:"
-msgstr ""
+msgstr "Կառավարություն."
 
 #: recursos/0rwanda/datos/0rwanda.py:123
 msgid "Parliamentary presidential republic"
@@ -649,7 +655,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:124
 msgid "President:"
-msgstr ""
+msgstr "Նախագահ."
 
 #: recursos/0rwanda/datos/0rwanda.py:124
 msgid "Paul Kagame"
@@ -665,7 +671,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:126
 msgid "Independence:"
-msgstr ""
+msgstr "Անկախություն."
 
 #: recursos/0rwanda/datos/0rwanda.py:126
 msgid "from Belgium"
@@ -674,7 +680,7 @@ msgstr ""
 #: recursos/0rwanda/datos/0rwanda.py:127
 #, python-format
 msgid "declared: %s"
-msgstr ""
+msgstr "հայտարարված` %s"
 
 #: recursos/0rwanda/datos/0rwanda.py:127
 msgid "1 of July of 1962"
@@ -682,15 +688,15 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:128
 msgid "Area:"
-msgstr ""
+msgstr "Տարածք."
 
 #: recursos/0rwanda/datos/0rwanda.py:128
 msgid "26.338 km² (149th)"
-msgstr ""
+msgstr "26.338 կմ² (149րդ)"
 
 #: recursos/0rwanda/datos/0rwanda.py:129
 msgid "Population:"
-msgstr ""
+msgstr "Բնակչություն."
 
 #: recursos/0rwanda/datos/0rwanda.py:129
 msgid "11.689.696 (73rd)"
@@ -731,7 +737,7 @@ msgstr ""
 #: recursos/0rwanda/datos/explorations.py:20
 #: recursos/0rwanda/datos/levels.py:7
 msgid "Cities"
-msgstr ""
+msgstr "Քաղաքներ"
 
 #: recursos/0rwanda/datos/explorations.py:27
 msgid "Waterways"
