@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-26 00:32-0400\n"
-"PO-Revision-Date: 2013-05-27 04:22+0200\n"
-"Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
+"PO-Revision-Date: 2013-07-12 23:51+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -276,9 +276,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:15
 msgid "Uganda"
-msgstr ""
-"Una pieza de mi\n"
-"nave cayó en"
+msgstr "Uganda"
 
 #: recursos/0rwanda/datos/0rwanda.py:16
 msgid "Burundi"
