@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-09 13:35-0400\n"
-"PO-Revision-Date: 2013-08-23 03:33+0200\n"
+"PO-Revision-Date: 2013-08-23 04:06+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -601,7 +601,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:121
 msgid "Capital:"
-msgstr ""
+msgstr "首都："
 
 #: recursos/0rwanda/datos/0rwanda.py:121
 msgid "(1°57′ S - 30°4′ W)"
@@ -609,7 +609,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:122
 msgid "Language:"
-msgstr ""
+msgstr "语言："
 
 #: recursos/0rwanda/datos/0rwanda.py:122
 msgid "Kinyarwanda"
@@ -625,7 +625,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:123
 msgid "Government:"
-msgstr ""
+msgstr "政府："
 
 #: recursos/0rwanda/datos/0rwanda.py:123
 msgid "Parliamentary presidential republic"
@@ -633,7 +633,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:124
 msgid "President:"
-msgstr ""
+msgstr "总统："
 
 #: recursos/0rwanda/datos/0rwanda.py:124
 msgid "Paul Kagame"
@@ -649,7 +649,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:126
 msgid "Independence:"
-msgstr ""
+msgstr "独立："
 
 #: recursos/0rwanda/datos/0rwanda.py:126
 msgid "from Belgium"
@@ -658,7 +658,7 @@ msgstr ""
 #: recursos/0rwanda/datos/0rwanda.py:127
 #, python-format
 msgid "declared: %s"
-msgstr ""
+msgstr "宣布: %s"
 
 #: recursos/0rwanda/datos/0rwanda.py:127
 msgid "1 of July of 1962"
@@ -666,7 +666,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:128
 msgid "Area:"
-msgstr ""
+msgstr "面积："
 
 #: recursos/0rwanda/datos/0rwanda.py:128
 msgid "26.338 km² (149th)"
@@ -674,7 +674,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:129
 msgid "Population:"
-msgstr ""
+msgstr "人口："
 
 #: recursos/0rwanda/datos/0rwanda.py:129
 msgid "11.689.696 (73rd)"
@@ -682,7 +682,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:130
 msgid "GDP:"
-msgstr ""
+msgstr "国内生产总值："
 
 #: recursos/0rwanda/datos/0rwanda.py:130
 msgid "USD 6.950 billion (139th)"
@@ -690,7 +690,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:131
 msgid "HDI:"
-msgstr ""
+msgstr "人类发展指数："
 
 #: recursos/0rwanda/datos/0rwanda.py:131
 msgid "Low - 0,429 (166th)"
@@ -698,7 +698,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:132
 msgid "Currency:"
-msgstr ""
+msgstr "货币："
 
 #: recursos/0rwanda/datos/0rwanda.py:132
 msgid "Rwandan franc"
@@ -715,15 +715,15 @@ msgstr ""
 #: recursos/0rwanda/datos/explorations.py:20
 #: recursos/0rwanda/datos/levels.py:7
 msgid "Cities"
-msgstr ""
+msgstr "市"
 
 #: recursos/0rwanda/datos/explorations.py:27
 msgid "Waterways"
-msgstr ""
+msgstr "水路"
 
 #: recursos/0rwanda/datos/explorations.py:34
 msgid "Routes"
-msgstr ""
+msgstr "路线"
 
 #: recursos/0rwanda/datos/levels.py:11 recursos/0rwanda/datos/levels.py:12
 #: recursos/0rwanda/datos/levels.py:13 recursos/0rwanda/datos/levels.py:14
@@ -772,7 +772,7 @@ msgstr ""
 #: recursos/0rwanda/datos/levels.py:99
 #, python-format
 msgid "It's in %s"
-msgstr ""
+msgstr "在%s中"
 
 #: recursos/0rwanda/datos/levels.py:92
 msgid "Cyangugu"
@@ -805,11 +805,11 @@ msgstr ""
 
 #: recursos/comun/datos/commons.py:14
 msgid "We have to find"
-msgstr ""
+msgstr "我们必须找到"
 
 #: recursos/comun/datos/commons.py:15
 msgid "Now we have to find"
-msgstr ""
+msgstr "现在我们必须找到"
 
 #: recursos/comun/datos/commons.py:16
 msgid ""
@@ -843,51 +843,51 @@ msgstr ""
 
 #: recursos/comun/datos/commons.py:24
 msgid "Can you tell me where it is?"
-msgstr ""
+msgstr "你能告诉我它在哪里吗？"
 
 #: recursos/comun/datos/commons.py:25
 msgid "Where is it?"
-msgstr ""
+msgstr "在哪里？"
 
 #: recursos/comun/datos/commons.py:26
 msgid "Can you show me where it is?"
-msgstr ""
+msgstr "你能告诉我它在哪里吗？"
 
 #: recursos/comun/datos/commons.py:27
 msgid "Can you find it?"
-msgstr ""
+msgstr "你能找到它吗？"
 
 #: recursos/comun/datos/commons.py:31
 msgid "Very well!"
-msgstr ""
+msgstr "很好！"
 
 #: recursos/comun/datos/commons.py:32
 msgid "Brilliant!"
-msgstr ""
+msgstr "漂亮！"
 
 #: recursos/comun/datos/commons.py:33
 msgid "You found it!"
-msgstr ""
+msgstr "你找到了！"
 
 #: recursos/comun/datos/commons.py:34
 msgid "Yes!"
-msgstr ""
+msgstr "没错！"
 
 #: recursos/comun/datos/commons.py:38
 msgid "No, that is not correct"
-msgstr ""
+msgstr "不，这是不正确的"
 
 #: recursos/comun/datos/commons.py:39
 msgid "No, it is not there"
-msgstr ""
+msgstr "不，它不在那里"
 
 #: recursos/comun/datos/commons.py:40
 msgid "No, that seems to be wrong"
-msgstr ""
+msgstr "不，这看上去是错的"
 
 #: recursos/comun/datos/commons.py:41
 msgid "That is not correct"
-msgstr ""
+msgstr "这是不正确的"
 
 #: recursos/comun/datos/commons.py:45
 msgid ""
@@ -911,29 +911,29 @@ msgstr ""
 
 #: recursos/comun/datos/commons.py:51
 msgid "Author: Alan Aguiar"
-msgstr ""
+msgstr "作者：Alan Aguiar"
 
 #: recursos/comun/datos/commons.py:52
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
-msgstr ""
+msgstr "请发送更正，意见或建议到：alanjas@hotmail.com"
 
 #: recursos/comun/datos/commons.py:54
 msgid "This program is free software developed by the community"
-msgstr ""
+msgstr "该程序是由社区开发的免费软件"
 
 #: recursos/comun/datos/commons.py:55
 msgid "For more information visit http://ceibaljam.org"
-msgstr ""
+msgstr "欲了解更多信息，请访问http://ceibaljam.org"
 
 #: recursos/comun/datos/commons.py:57
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
-msgstr ""
+msgstr "该程序是基于“Conozco Uruguay”（作者： Gabriel Eirea）"
 
 #: recursos/comun/datos/commons.py:58
 msgid ""
 "Sounds downloaded from freesound.org: junggle_btn117.wav courtesy of junggle."
-msgstr ""
+msgstr "声音从freesound.org下载：btn117.wav courtesy of junggle。"
 
 #: recursos/comun/datos/commons.py:59
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
-msgstr ""
+msgstr "字体：Share-Regular.ttf 从 urbanfonts.com 下载"
