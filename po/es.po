@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-09 13:35-0400\n"
-"PO-Revision-Date: 2013-07-12 23:51+0200\n"
-"Last-Translator: Chris <cjl@laptop.org>\n"
+"POT-Creation-Date: 2014-01-19 00:31-0500\n"
+"PO-Revision-Date: 2014-01-19 23:16+0200\n"
+"Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -27,13 +27,12 @@ msgstr "Conozco Ruanda"
 msgid "Game about the geography of Rwanda"
 msgstr "Juego sobre la geografía de Ruanda"
 
-#: conozcouy.py:241 conozcouy.py:358 conozcouy.py:381 conozcouy.py:433
-#: conozcouy.py:519
+#: conozco.py:247 conozco.py:357 conozco.py:381 conozco.py:437 conozco.py:520
 #, python-format
 msgid "Cannot open %s"
 msgstr "No se puede abrir %s"
 
-#: conozcouy.py:466
+#: conozco.py:470
 #, python-format
 msgid ""
 "the city of\n"
@@ -42,7 +41,7 @@ msgstr ""
 "la ciudad de\n"
 "%s"
 
-#: conozcouy.py:469
+#: conozco.py:473
 #, python-format
 msgid ""
 "the department of\n"
@@ -51,7 +50,7 @@ msgstr ""
 "el departamento de\n"
 "%s"
 
-#: conozcouy.py:472
+#: conozco.py:476
 #, python-format
 msgid ""
 "the province of\n"
@@ -60,7 +59,7 @@ msgstr ""
 "la provincia de\n"
 "%s"
 
-#: conozcouy.py:475
+#: conozco.py:479
 #, python-format
 msgid ""
 "the district of\n"
@@ -69,7 +68,7 @@ msgstr ""
 "el distrito de\n"
 "%s"
 
-#: conozcouy.py:478
+#: conozco.py:482
 #, python-format
 msgid ""
 "the state of\n"
@@ -78,7 +77,7 @@ msgstr ""
 "el estado de\n"
 "%s"
 
-#: conozcouy.py:481
+#: conozco.py:485
 #, python-format
 msgid ""
 "the region of\n"
@@ -87,7 +86,7 @@ msgstr ""
 "la región de\n"
 "%s"
 
-#: conozcouy.py:484
+#: conozco.py:488
 #, python-format
 msgid ""
 "the parish of\n"
@@ -96,7 +95,7 @@ msgstr ""
 "la parroquia de\n"
 "%s"
 
-#: conozcouy.py:487
+#: conozco.py:491
 #, python-format
 msgid ""
 "the taluka of\n"
@@ -105,7 +104,7 @@ msgstr ""
 "la taluka de\n"
 "%s"
 
-#: conozcouy.py:490
+#: conozco.py:494
 #, python-format
 msgid ""
 "the municipality of\n"
@@ -114,77 +113,107 @@ msgstr ""
 "la municipalidad de\n"
 "%s"
 
-#: conozcouy.py:493
+#: conozco.py:497
 #, python-format
 msgid "the %s"
 msgstr "el %s"
 
-#: conozcouy.py:496
-#, python-format
-msgid "the %(river)s"
-msgstr "el %(river)s"
-
-#: conozcouy.py:499
+#: conozco.py:500
 #, python-format
 msgid "the %(route)s"
 msgstr "la %(route)s"
 
-#: conozcouy.py:554
+#: conozco.py:557
 #, python-format
 msgid "About %s"
 msgstr "Acerca de %s"
 
-#: conozcouy.py:568
+#: conozco.py:571 conozco.py:648
 msgid "Press any key to return"
 msgstr "Presiona cualquier tecla para regresar"
 
-#: conozcouy.py:599
+#: conozco.py:603
+#, python-format
+msgid "Stats of %s"
+msgstr "Estadísticas de %s"
+
+#: conozco.py:609
+#, python-format
+msgid "Total score: %s"
+msgstr "Puntaje total: %s"
+
+#: conozco.py:615
+#, python-format
+msgid "Game average score: %s"
+msgstr "Puntaje promedio de juego: %s"
+
+#: conozco.py:621
+#, python-format
+msgid "Times using Explore Mode: %s"
+msgstr "Veces utilizando Modo Exploración: %s"
+
+#: conozco.py:627
+#, python-format
+msgid "Places Explored: %s"
+msgstr "Lugares Explorados: %s"
+
+#: conozco.py:633
+#, python-format
+msgid "Times using Game Mode: %s"
+msgstr "Veces utilizando Modo Juego: %s"
+
+#: conozco.py:641
+#, python-format
+msgid "Total time: %s minutes"
+msgstr "Tiempo total: %s minutos"
+
+#: conozco.py:680
 msgid "You have chosen the map "
 msgstr "Has elegido el mapa de "
 
-#: conozcouy.py:605
+#: conozco.py:686
 msgid "Play"
 msgstr "Jugar"
 
-#: conozcouy.py:621
+#: conozco.py:702
 msgid "Explore"
 msgstr "Explorar"
 
-#: conozcouy.py:641 conozcouy.py:785
+#: conozco.py:722 conozco.py:883
 msgid "About this game"
 msgstr "Acerca de este juego"
 
-#: conozcouy.py:649
+#: conozco.py:730 conozco.py:891
+msgid "Stats"
+msgstr "Estadísticas"
+
+#: conozco.py:738
 msgid "Return"
 msgstr "Regresar"
 
-#: conozcouy.py:706
+#: conozco.py:803
 msgid "Choose the map to use"
 msgstr "Elige el mapa a utilizar"
 
-#: conozcouy.py:726
+#: conozco.py:823
 msgid "Previous page"
 msgstr "Página anterior"
 
-#: conozcouy.py:771
+#: conozco.py:868
 msgid "Next page"
 msgstr "Página siguiente"
 
-#: conozcouy.py:792
+#: conozco.py:899
 msgid "Exit"
 msgstr "Salir"
 
-#: conozcouy.py:1274
+#: conozco.py:1444 conozco.py:1598
 msgid "End"
 msgstr "Terminar"
 
-#: conozcouy.py:1285
+#: conozco.py:1455
 msgid "Show all"
 msgstr "Mostrar todo"
-
-#: conozcouy.py:1614 conozcouy.py:1870
-msgid "Press any key to skip"
-msgstr "Presiona cualquier tecla para saltear"
 
 #: recursos/0rwanda/datos/0rwanda.py:5
 msgid "Rwanda"
@@ -807,186 +836,282 @@ msgid "Nyakabuye"
 msgstr "Nyakabuye"
 
 #: recursos/comun/datos/commons.py:8
-msgid ""
-"What a beautiful world!\n"
-"I will explore that territory.\n"
-"There I go!"
-msgstr ""
-"¡Qué hermoso planeta!\n"
-"Voy a explorar aquel territorio.\n"
-"¡Ahí voy!"
+msgid "Hello friends..."
+msgstr "Hola amigos..."
 
 #: recursos/comun/datos/commons.py:9
 msgid ""
-"Oh, no!\n"
-"The ship has problems,\n"
-"I'm going to crash!"
+"...tomorrow I have a\n"
+"test about Rwanda..."
 msgstr ""
-"¡Oh, no!\n"
-"La nave tiene problemas,\n"
-"¡voy a estrellarme!"
+"...mañana tengo una\n"
+"prueba sobre Ruanda..."
 
 #: recursos/comun/datos/commons.py:10
-msgid ""
-"Luckily I was saved!\n"
-"Now I have to rebuild my ship.\n"
-"Need help!"
-msgstr ""
-"¡Por suerte me salvé!\n"
-"Ahora tengo que reconstruir mi nave.\n"
-"¡Necesito tu ayuda!"
+msgid "...and I know nothing!!!"
+msgstr "...y no sé nada!!!"
 
-#: recursos/comun/datos/commons.py:14
+#: recursos/comun/datos/commons.py:11
+msgid "...what do I do???"
+msgstr "...qué puedo hacer???"
+
+#: recursos/comun/datos/commons.py:12
+msgid "Can I ask you something?"
+msgstr "¿Puedo pedirte algo?"
+
+#: recursos/comun/datos/commons.py:13
+msgid "Will you help me?"
+msgstr "¿Puedes ayudarme?"
+
+#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr "Tenemos que econtrar"
 
-#: recursos/comun/datos/commons.py:15
+#: recursos/comun/datos/commons.py:18
 msgid "Now we have to find"
 msgstr "Ahora tenemos que encontrar"
 
-#: recursos/comun/datos/commons.py:16
-msgid ""
-"We have to look\n"
-"a piece of my ship in"
-msgstr ""
-"Tenemos que buscar\n"
-"una pieza de mi nave en"
-
-#: recursos/comun/datos/commons.py:17
-msgid ""
-"There's a piece\n"
-"of my ship in"
-msgstr ""
-"Hay una pieza\n"
-"de mi nave en"
-
-#: recursos/comun/datos/commons.py:18
-msgid ""
-"According to my information\n"
-"have to look at"
-msgstr ""
-"De acuerdo a mi información\n"
-"tenemos que buscar en"
-
 #: recursos/comun/datos/commons.py:19
-msgid ""
-"We have to\n"
-"go up"
-msgstr ""
-"Tenemos que\n"
-"ir hasta"
+msgid "We need to find"
+msgstr "Tenemos que hallar"
 
-#: recursos/comun/datos/commons.py:20
-msgid ""
-"A piece of my\n"
-"ship fell into"
-msgstr ""
-"Una pieza de mi\n"
-"nave cayó en"
-
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:23
 msgid "Can you tell me where it is?"
 msgstr "¿Puedes decirme dónde está?"
 
-#: recursos/comun/datos/commons.py:25
+#: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
 msgstr "¿Dónde está?"
 
-#: recursos/comun/datos/commons.py:26
+#: recursos/comun/datos/commons.py:25
 msgid "Can you show me where it is?"
 msgstr "¿Puedes mostrarme dónde está?"
 
-#: recursos/comun/datos/commons.py:27
+#: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
 msgstr "¿Puedes encontrarlo?"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:30
 msgid "Very well!"
 msgstr "¡Muy bien!"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
 msgstr "¡Genial!"
 
-#: recursos/comun/datos/commons.py:33
+#: recursos/comun/datos/commons.py:32
 msgid "You found it!"
 msgstr "¡Lo encontraste!"
 
-#: recursos/comun/datos/commons.py:34
+#: recursos/comun/datos/commons.py:33
 msgid "Yes!"
 msgstr "¡Si!"
 
-#: recursos/comun/datos/commons.py:38
+#: recursos/comun/datos/commons.py:37
 msgid "No, that is not correct"
 msgstr "No, ese no es correcto"
 
-#: recursos/comun/datos/commons.py:39
+#: recursos/comun/datos/commons.py:38
 msgid "No, it is not there"
 msgstr "No, no está ahí"
 
-#: recursos/comun/datos/commons.py:40
+#: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
 msgstr "No, parece que está mal"
 
-#: recursos/comun/datos/commons.py:41
+#: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
 msgstr "Ese no es correcto"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:44
 msgid ""
-"Now I can return\n"
-"Farewell to my planet.\n"
+"Now I'm ready\n"
+"for tomorrow...\n"
+"I'm going to play...\n"
 "Thanks for your help!"
 msgstr ""
-"Ahora puedo regresar\n"
-"a mi planeta.\n"
+"Ahora estoy listo\n"
+"para mañana...\n"
+"Me voy a jugar...\n"
 "¡Gracias por tu ayuda!"
+
+#: recursos/comun/datos/commons.py:45
+msgid ""
+"We made it!\n"
+"I'm going to play ball...\n"
+"Bye and thanks\n"
+"for helping me!"
+msgstr ""
+"¡Lo hemos conseguido!\n"
+"Me voy a jugar\n"
+"con la pelota...\n"
+"¡Chau y gracias por ayudarme!"
 
 #: recursos/comun/datos/commons.py:46
 msgid ""
-"My ship is ready.\n"
-"Bye and thanks for helping!"
-msgstr ""
-"Mi nave está lista.\n"
-"¡Adiós y gracias por ayudarme!"
-
-#: recursos/comun/datos/commons.py:47
-msgid ""
 "We did it!\n"
-"I'm Ready to take off.\n"
+"I'm ready for tomorrow...\n"
+"I'm playing a while...\n"
 "Until next time!"
 msgstr ""
 "¡Lo hicimos!\n"
-"Estoy listo para despegar.\n"
+"Estoy listo para mañana...\n"
+"Voy a jugar un rato...\n"
 "¡Hasta la próxima!"
 
+#: recursos/comun/datos/commons.py:50
+msgid ""
+"Better luck next time\n"
+"I'll play a while...\n"
+"Thanks!"
+msgstr ""
+"Mas suerte la próxima...\n"
+"Voy a jugar un rato...\n"
+"¡Gracias!"
+
 #: recursos/comun/datos/commons.py:51
+msgid ""
+"The next time will be better\n"
+"I'm going to play ball...\n"
+"Thanks!"
+msgstr ""
+"La próxima vez será mejor...\n"
+"Me voy a jugar\n"
+"con la pelota...\n"
+"¡Gracias!"
+
+#: recursos/comun/datos/commons.py:52
+msgid ""
+"Please try again...\n"
+"I'm going to play...\n"
+"Thanks!"
+msgstr ""
+"Vuelve a intentarlo...\n"
+"Me voy a jugar...\n"
+"¡Gracias!"
+
+#: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
 msgstr "Autor: Alan Aguiar"
 
-#: recursos/comun/datos/commons.py:52
+#: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr "Enviar correcciones, comentarios o sugerencias a: alanjas@hotmail.com"
 
-#: recursos/comun/datos/commons.py:54
+#: recursos/comun/datos/commons.py:59
+msgid "Thank's to Salil Konkar for the help in the english strings."
+msgstr "Gracias a Salil Konkar por la ayuda con las cadenas en inglés."
+
+#: recursos/comun/datos/commons.py:61
 msgid "This program is free software developed by the community"
 msgstr "Este programa es software libre desarrollado por la comunidad"
 
-#: recursos/comun/datos/commons.py:55
+#: recursos/comun/datos/commons.py:62
 msgid "For more information visit http://ceibaljam.org"
 msgstr "Por más información visita http://ceibaljam.org"
 
-#: recursos/comun/datos/commons.py:57
+#: recursos/comun/datos/commons.py:64
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr "Este programa está basado en 'Conozco Uruguay' (Autor: Gabriel Eirea)"
 
-#: recursos/comun/datos/commons.py:58
-msgid ""
-"Sounds downloaded from freesound.org: junggle_btn117.wav courtesy of junggle."
-msgstr ""
-"Sonidos descargados de freesound.org: junggle_btn117.wav cortesía de "
-"junggle."
+#: recursos/comun/datos/commons.py:65
+msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
+msgstr "Sonidos descargados de freesound.org: btn117.wav cortesía de junggle."
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:66
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "Fuente: Share-Regular.ttf de urbanfonts.com"
+
+#, python-format
+#~ msgid "the %(river)s"
+#~ msgstr "el %(river)s"
+
+#~ msgid "Press any key to skip"
+#~ msgstr "Presiona cualquier tecla para saltear"
+
+#~ msgid ""
+#~ "What a beautiful world!\n"
+#~ "I will explore that territory.\n"
+#~ "There I go!"
+#~ msgstr ""
+#~ "¡Qué hermoso planeta!\n"
+#~ "Voy a explorar aquel territorio.\n"
+#~ "¡Ahí voy!"
+
+#~ msgid ""
+#~ "Oh, no!\n"
+#~ "The ship has problems,\n"
+#~ "I'm going to crash!"
+#~ msgstr ""
+#~ "¡Oh, no!\n"
+#~ "La nave tiene problemas,\n"
+#~ "¡voy a estrellarme!"
+
+#~ msgid ""
+#~ "Luckily I was saved!\n"
+#~ "Now I have to rebuild my ship.\n"
+#~ "Need help!"
+#~ msgstr ""
+#~ "¡Por suerte me salvé!\n"
+#~ "Ahora tengo que reconstruir mi nave.\n"
+#~ "¡Necesito tu ayuda!"
+
+#~ msgid ""
+#~ "We have to look\n"
+#~ "a piece of my ship in"
+#~ msgstr ""
+#~ "Tenemos que buscar\n"
+#~ "una pieza de mi nave en"
+
+#~ msgid ""
+#~ "There's a piece\n"
+#~ "of my ship in"
+#~ msgstr ""
+#~ "Hay una pieza\n"
+#~ "de mi nave en"
+
+#~ msgid ""
+#~ "According to my information\n"
+#~ "have to look at"
+#~ msgstr ""
+#~ "De acuerdo a mi información\n"
+#~ "tenemos que buscar en"
+
+#~ msgid ""
+#~ "We have to\n"
+#~ "go up"
+#~ msgstr ""
+#~ "Tenemos que\n"
+#~ "ir hasta"
+
+#~ msgid ""
+#~ "A piece of my\n"
+#~ "ship fell into"
+#~ msgstr ""
+#~ "Una pieza de mi\n"
+#~ "nave cayó en"
+
+#~ msgid ""
+#~ "Now I can return\n"
+#~ "Farewell to my planet.\n"
+#~ "Thanks for your help!"
+#~ msgstr ""
+#~ "Ahora puedo regresar\n"
+#~ "a mi planeta.\n"
+#~ "¡Gracias por tu ayuda!"
+
+#~ msgid ""
+#~ "My ship is ready.\n"
+#~ "Bye and thanks for helping!"
+#~ msgstr ""
+#~ "Mi nave está lista.\n"
+#~ "¡Adiós y gracias por ayudarme!"
+
+#~ msgid ""
+#~ "We did it!\n"
+#~ "I'm Ready to take off.\n"
+#~ "Until next time!"
+#~ msgstr ""
+#~ "¡Lo hicimos!\n"
+#~ "Estoy listo para despegar.\n"
+#~ "¡Hasta la próxima!"
