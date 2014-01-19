@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-09 13:35-0400\n"
-"PO-Revision-Date: 2013-05-27 03:15+0200\n"
+"POT-Creation-Date: 2014-01-19 00:31-0500\n"
+"PO-Revision-Date: 2014-01-19 19:29+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -27,13 +27,12 @@ msgstr "I know Rwanda"
 msgid "Game about the geography of Rwanda"
 msgstr "Game about the geography of Rwanda"
 
-#: conozcouy.py:241 conozcouy.py:358 conozcouy.py:381 conozcouy.py:433
-#: conozcouy.py:519
+#: conozco.py:247 conozco.py:357 conozco.py:381 conozco.py:437 conozco.py:520
 #, python-format
 msgid "Cannot open %s"
 msgstr "Cannot open %s"
 
-#: conozcouy.py:466
+#: conozco.py:470
 #, python-format
 msgid ""
 "the city of\n"
@@ -42,7 +41,7 @@ msgstr ""
 "the city of\n"
 "%s"
 
-#: conozcouy.py:469
+#: conozco.py:473
 #, python-format
 msgid ""
 "the department of\n"
@@ -51,7 +50,7 @@ msgstr ""
 "the department of\n"
 "%s"
 
-#: conozcouy.py:472
+#: conozco.py:476
 #, python-format
 msgid ""
 "the province of\n"
@@ -60,7 +59,7 @@ msgstr ""
 "the province of\n"
 "%s"
 
-#: conozcouy.py:475
+#: conozco.py:479
 #, python-format
 msgid ""
 "the district of\n"
@@ -69,7 +68,7 @@ msgstr ""
 "the district of\n"
 "%s"
 
-#: conozcouy.py:478
+#: conozco.py:482
 #, python-format
 msgid ""
 "the state of\n"
@@ -78,7 +77,7 @@ msgstr ""
 "the state of\n"
 "%s"
 
-#: conozcouy.py:481
+#: conozco.py:485
 #, python-format
 msgid ""
 "the region of\n"
@@ -87,7 +86,7 @@ msgstr ""
 "the region of\n"
 "%s"
 
-#: conozcouy.py:484
+#: conozco.py:488
 #, python-format
 msgid ""
 "the parish of\n"
@@ -96,7 +95,7 @@ msgstr ""
 "the parish of\n"
 "%s"
 
-#: conozcouy.py:487
+#: conozco.py:491
 #, python-format
 msgid ""
 "the taluka of\n"
@@ -105,7 +104,7 @@ msgstr ""
 "the taluka of\n"
 "%s"
 
-#: conozcouy.py:490
+#: conozco.py:494
 #, python-format
 msgid ""
 "the municipality of\n"
@@ -114,77 +113,107 @@ msgstr ""
 "the municipality of\n"
 "%s"
 
-#: conozcouy.py:493
+#: conozco.py:497
 #, python-format
 msgid "the %s"
 msgstr "the %s"
 
-#: conozcouy.py:496
-#, python-format
-msgid "the %(river)s"
-msgstr "the %(river)s"
-
-#: conozcouy.py:499
+#: conozco.py:500
 #, python-format
 msgid "the %(route)s"
 msgstr "the %(route)s"
 
-#: conozcouy.py:554
+#: conozco.py:557
 #, python-format
 msgid "About %s"
 msgstr "About %s"
 
-#: conozcouy.py:568
+#: conozco.py:571 conozco.py:648
 msgid "Press any key to return"
 msgstr "Press any key to return"
 
-#: conozcouy.py:599
+#: conozco.py:603
+#, python-format
+msgid "Stats of %s"
+msgstr "Stats of %s"
+
+#: conozco.py:609
+#, python-format
+msgid "Total score: %s"
+msgstr "Total score: %s"
+
+#: conozco.py:615
+#, python-format
+msgid "Game average score: %s"
+msgstr "Game average score: %s"
+
+#: conozco.py:621
+#, python-format
+msgid "Times using Explore Mode: %s"
+msgstr "Times using Explore Mode: %s"
+
+#: conozco.py:627
+#, python-format
+msgid "Places Explored: %s"
+msgstr "Places Explored: %s"
+
+#: conozco.py:633
+#, python-format
+msgid "Times using Game Mode: %s"
+msgstr "Times using Game Mode: %s"
+
+#: conozco.py:641
+#, python-format
+msgid "Total time: %s minutes"
+msgstr "Total time: %s minutes"
+
+#: conozco.py:680
 msgid "You have chosen the map "
 msgstr "You have chosen the map "
 
-#: conozcouy.py:605
+#: conozco.py:686
 msgid "Play"
 msgstr "Play"
 
-#: conozcouy.py:621
+#: conozco.py:702
 msgid "Explore"
 msgstr "Explore"
 
-#: conozcouy.py:641 conozcouy.py:785
+#: conozco.py:722 conozco.py:883
 msgid "About this game"
 msgstr "About this game"
 
-#: conozcouy.py:649
+#: conozco.py:730 conozco.py:891
+msgid "Stats"
+msgstr "Stats"
+
+#: conozco.py:738
 msgid "Return"
 msgstr "Return"
 
-#: conozcouy.py:706
+#: conozco.py:803
 msgid "Choose the map to use"
 msgstr "Choose the map to use"
 
-#: conozcouy.py:726
+#: conozco.py:823
 msgid "Previous page"
 msgstr "Previous page"
 
-#: conozcouy.py:771
+#: conozco.py:868
 msgid "Next page"
 msgstr "Next page"
 
-#: conozcouy.py:792
+#: conozco.py:899
 msgid "Exit"
 msgstr "Exit"
 
-#: conozcouy.py:1274
+#: conozco.py:1444 conozco.py:1598
 msgid "End"
 msgstr "End"
 
-#: conozcouy.py:1285
+#: conozco.py:1455
 msgid "Show all"
 msgstr "Show all"
-
-#: conozcouy.py:1614 conozcouy.py:1870
-msgid "Press any key to skip"
-msgstr "Press any key to skip"
 
 #: recursos/0rwanda/datos/0rwanda.py:5
 msgid "Rwanda"
@@ -807,186 +836,281 @@ msgid "Nyakabuye"
 msgstr "Nyakabuye"
 
 #: recursos/comun/datos/commons.py:8
-msgid ""
-"What a beautiful world!\n"
-"I will explore that territory.\n"
-"There I go!"
-msgstr ""
-"What a beautiful world!\n"
-"I will explore that territory.\n"
-"There I go!"
+msgid "Hello friends..."
+msgstr "Hello friends..."
 
 #: recursos/comun/datos/commons.py:9
 msgid ""
-"Oh, no!\n"
-"The ship has problems,\n"
-"I'm going to crash!"
+"...tomorrow I have a\n"
+"test about Rwanda..."
 msgstr ""
-"Oh, no!\n"
-"The ship has problems,\n"
-"I'm going to crash!"
+"...tomorrow I have a\n"
+"test about Rwanda..."
 
 #: recursos/comun/datos/commons.py:10
-msgid ""
-"Luckily I was saved!\n"
-"Now I have to rebuild my ship.\n"
-"Need help!"
-msgstr ""
-"Luckily I was saved!\n"
-"Now I have to rebuild my ship.\n"
-"Need help!"
+msgid "...and I know nothing!!!"
+msgstr "...and I know nothing!!!"
 
-#: recursos/comun/datos/commons.py:14
+#: recursos/comun/datos/commons.py:11
+msgid "...what do I do???"
+msgstr "...what do I do???"
+
+#: recursos/comun/datos/commons.py:12
+msgid "Can I ask you something?"
+msgstr "Can I ask you something?"
+
+#: recursos/comun/datos/commons.py:13
+msgid "Will you help me?"
+msgstr "Will you help me?"
+
+#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr "We have to find"
 
-#: recursos/comun/datos/commons.py:15
+#: recursos/comun/datos/commons.py:18
 msgid "Now we have to find"
 msgstr "Now we have to find"
 
-#: recursos/comun/datos/commons.py:16
-msgid ""
-"We have to look\n"
-"a piece of my ship in"
-msgstr ""
-"We have to look\n"
-"a piece of my ship in"
-
-#: recursos/comun/datos/commons.py:17
-msgid ""
-"There's a piece\n"
-"of my ship in"
-msgstr ""
-"There's a piece\n"
-"of my ship in"
-
-#: recursos/comun/datos/commons.py:18
-msgid ""
-"According to my information\n"
-"have to look at"
-msgstr ""
-"According to my information\n"
-"have to look at"
-
 #: recursos/comun/datos/commons.py:19
-msgid ""
-"We have to\n"
-"go up"
-msgstr ""
-"We have to\n"
-"go up"
+msgid "We need to find"
+msgstr "We need to find"
 
-#: recursos/comun/datos/commons.py:20
-msgid ""
-"A piece of my\n"
-"ship fell into"
-msgstr ""
-"A piece of my\n"
-"ship fell into"
-
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:23
 msgid "Can you tell me where it is?"
 msgstr "Can you tell me where it is?"
 
-#: recursos/comun/datos/commons.py:25
+#: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
 msgstr "Where is it?"
 
-#: recursos/comun/datos/commons.py:26
+#: recursos/comun/datos/commons.py:25
 msgid "Can you show me where it is?"
 msgstr "Can you show me where it is?"
 
-#: recursos/comun/datos/commons.py:27
+#: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
 msgstr "Can you find it?"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:30
 msgid "Very well!"
 msgstr "Very well!"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
 msgstr "Brilliant!"
 
-#: recursos/comun/datos/commons.py:33
+#: recursos/comun/datos/commons.py:32
 msgid "You found it!"
 msgstr "You found it!"
 
-#: recursos/comun/datos/commons.py:34
+#: recursos/comun/datos/commons.py:33
 msgid "Yes!"
 msgstr "Yes!"
 
-#: recursos/comun/datos/commons.py:38
+#: recursos/comun/datos/commons.py:37
 msgid "No, that is not correct"
 msgstr "No, that is not correct"
 
-#: recursos/comun/datos/commons.py:39
+#: recursos/comun/datos/commons.py:38
 msgid "No, it is not there"
 msgstr "No, it is not there"
 
-#: recursos/comun/datos/commons.py:40
+#: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
 msgstr "No, that seems to be wrong"
 
-#: recursos/comun/datos/commons.py:41
+#: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
 msgstr "That is not correct"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:44
 msgid ""
-"Now I can return\n"
-"Farewell to my planet.\n"
+"Now I'm ready\n"
+"for tomorrow...\n"
+"I'm going to play...\n"
 "Thanks for your help!"
 msgstr ""
-"Now I can return\n"
-"Farewell to my planet.\n"
+"Now I'm ready\n"
+"for tomorrow...\n"
+"I'm going to play...\n"
 "Thanks for your help!"
+
+#: recursos/comun/datos/commons.py:45
+msgid ""
+"We made it!\n"
+"I'm going to play ball...\n"
+"Bye and thanks\n"
+"for helping me!"
+msgstr ""
+"We made it!\n"
+"I'm going to play ball...\n"
+"Bye and thanks\n"
+"for helping me!"
 
 #: recursos/comun/datos/commons.py:46
 msgid ""
-"My ship is ready.\n"
-"Bye and thanks for helping!"
+"We did it!\n"
+"I'm ready for tomorrow...\n"
+"I'm playing a while...\n"
+"Until next time!"
 msgstr ""
-"My ship is ready.\n"
-"Bye and thanks for helping!"
+"We did it!\n"
+"I'm ready for tomorrow...\n"
+"I'm playing a while...\n"
+"Until next time!"
 
-#: recursos/comun/datos/commons.py:47
+#: recursos/comun/datos/commons.py:50
 msgid ""
-"We did it!\n"
-"I'm Ready to take off.\n"
-"Until next time!"
+"Better luck next time\n"
+"I'll play a while...\n"
+"Thanks!"
 msgstr ""
-"We did it!\n"
-"I'm Ready to take off.\n"
-"Until next time!"
+"Better luck next time\n"
+"I'll play a while...\n"
+"Thanks!"
 
 #: recursos/comun/datos/commons.py:51
+msgid ""
+"The next time will be better\n"
+"I'm going to play ball...\n"
+"Thanks!"
+msgstr ""
+"The next time will be better\n"
+"I'm going to play ball...\n"
+"Thanks!"
+
+#: recursos/comun/datos/commons.py:52
+msgid ""
+"Please try again...\n"
+"I'm going to play...\n"
+"Thanks!"
+msgstr ""
+"Please try again...\n"
+"I'm going to play...\n"
+"Thanks!"
+
+#: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
 msgstr "Author: Alan Aguiar"
 
-#: recursos/comun/datos/commons.py:52
+#: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 
-#: recursos/comun/datos/commons.py:54
+#: recursos/comun/datos/commons.py:59
+msgid "Thank's to Salil Konkar for the help in the english strings."
+msgstr "Thank's to Salil Konkar for the help in the english strings."
+
+#: recursos/comun/datos/commons.py:61
 msgid "This program is free software developed by the community"
 msgstr "This program is free software developed by the community"
 
-#: recursos/comun/datos/commons.py:55
+#: recursos/comun/datos/commons.py:62
 msgid "For more information visit http://ceibaljam.org"
 msgstr "For more information visit http://ceibaljam.org"
 
-#: recursos/comun/datos/commons.py:57
+#: recursos/comun/datos/commons.py:64
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 
-#: recursos/comun/datos/commons.py:58
-msgid ""
-"Sounds downloaded from freesound.org: junggle_btn117.wav courtesy of junggle."
-msgstr ""
-"Sounds downloaded from freesound.org: junggle_btn117.wav courtesy of "
-"junggle."
+#: recursos/comun/datos/commons.py:65
+msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
+msgstr "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:66
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "Font: Share-Regular.ttf of urbanfonts.com"
+
+#, python-format
+#~ msgid "the %(river)s"
+#~ msgstr "the %(river)s"
+
+#~ msgid "Press any key to skip"
+#~ msgstr "Press any key to skip"
+
+#~ msgid ""
+#~ "What a beautiful world!\n"
+#~ "I will explore that territory.\n"
+#~ "There I go!"
+#~ msgstr ""
+#~ "What a beautiful world!\n"
+#~ "I will explore that territory.\n"
+#~ "There I go!"
+
+#~ msgid ""
+#~ "Oh, no!\n"
+#~ "The ship has problems,\n"
+#~ "I'm going to crash!"
+#~ msgstr ""
+#~ "Oh, no!\n"
+#~ "The ship has problems,\n"
+#~ "I'm going to crash!"
+
+#~ msgid ""
+#~ "Luckily I was saved!\n"
+#~ "Now I have to rebuild my ship.\n"
+#~ "Need help!"
+#~ msgstr ""
+#~ "Luckily I was saved!\n"
+#~ "Now I have to rebuild my ship.\n"
+#~ "Need help!"
+
+#~ msgid ""
+#~ "We have to look\n"
+#~ "a piece of my ship in"
+#~ msgstr ""
+#~ "We have to look\n"
+#~ "a piece of my ship in"
+
+#~ msgid ""
+#~ "There's a piece\n"
+#~ "of my ship in"
+#~ msgstr ""
+#~ "There's a piece\n"
+#~ "of my ship in"
+
+#~ msgid ""
+#~ "According to my information\n"
+#~ "have to look at"
+#~ msgstr ""
+#~ "According to my information\n"
+#~ "have to look at"
+
+#~ msgid ""
+#~ "We have to\n"
+#~ "go up"
+#~ msgstr ""
+#~ "We have to\n"
+#~ "go up"
+
+#~ msgid ""
+#~ "A piece of my\n"
+#~ "ship fell into"
+#~ msgstr ""
+#~ "A piece of my\n"
+#~ "ship fell into"
+
+#~ msgid ""
+#~ "Now I can return\n"
+#~ "Farewell to my planet.\n"
+#~ "Thanks for your help!"
+#~ msgstr ""
+#~ "Now I can return\n"
+#~ "Farewell to my planet.\n"
+#~ "Thanks for your help!"
+
+#~ msgid ""
+#~ "My ship is ready.\n"
+#~ "Bye and thanks for helping!"
+#~ msgstr ""
+#~ "My ship is ready.\n"
+#~ "Bye and thanks for helping!"
+
+#~ msgid ""
+#~ "We did it!\n"
+#~ "I'm Ready to take off.\n"
+#~ "Until next time!"
+#~ msgstr ""
+#~ "We did it!\n"
+#~ "I'm Ready to take off.\n"
+#~ "Until next time!"
