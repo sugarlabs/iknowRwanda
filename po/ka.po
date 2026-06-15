@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-09 13:35-0400\n"
-"PO-Revision-Date: 2026-06-15 07:48+0000\n"
+"PO-Revision-Date: 2026-06-15 16:05+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowrwanda/ka/>\n"
@@ -33,7 +33,7 @@ msgstr ""
 #: conozcouy.py:519
 #, python-format
 msgid "Cannot open %s"
-msgstr ""
+msgstr "%s-ის გახსნა ვერ მოხერხდა"
 
 #: conozcouy.py:466
 #, python-format
@@ -116,7 +116,7 @@ msgstr ""
 #: conozcouy.py:554
 #, python-format
 msgid "About %s"
-msgstr ""
+msgstr "%s-ის შესახებ"
 
 #: conozcouy.py:568
 msgid "Press any key to return"
@@ -164,7 +164,7 @@ msgstr "დასასრული"
 
 #: conozcouy.py:1285
 msgid "Show all"
-msgstr ""
+msgstr "ყველას ჩვენება"
 
 #: conozcouy.py:1614 conozcouy.py:1870
 msgid "Press any key to skip"
