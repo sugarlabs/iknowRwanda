@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-09 13:35-0400\n"
-"PO-Revision-Date: 2026-06-22 06:20+0000\n"
+"PO-Revision-Date: 2026-06-29 09:10+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowrwanda/ka/>\n"
@@ -172,7 +172,7 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:5
 msgid "Rwanda"
-msgstr ""
+msgstr "რუანდა"
 
 #: recursos/0rwanda/datos/0rwanda.py:8 recursos/0rwanda/datos/levels.py:15
 #: recursos/0rwanda/datos/levels.py:38 recursos/0rwanda/datos/levels.py:39
@@ -195,7 +195,7 @@ msgstr ""
 #: recursos/0rwanda/datos/0rwanda.py:121 recursos/0rwanda/datos/levels.py:11
 #: recursos/0rwanda/datos/levels.py:16 recursos/0rwanda/datos/levels.py:17
 msgid "Kigali"
-msgstr ""
+msgstr "კიგალი"
 
 #: recursos/0rwanda/datos/0rwanda.py:10 recursos/0rwanda/datos/levels.py:14
 #: recursos/0rwanda/datos/levels.py:63 recursos/0rwanda/datos/levels.py:64
@@ -254,111 +254,111 @@ msgstr ""
 
 #: recursos/0rwanda/datos/0rwanda.py:15
 msgid "Uganda"
-msgstr ""
+msgstr "უგანდა"
 
 #: recursos/0rwanda/datos/0rwanda.py:16
 msgid "Burundi"
-msgstr ""
+msgstr "ბურუნდი"
 
 #: recursos/0rwanda/datos/0rwanda.py:21 recursos/0rwanda/datos/levels.py:12
 msgid "Nyanza"
-msgstr ""
+msgstr "ნიანზა"
 
 #: recursos/0rwanda/datos/0rwanda.py:22 recursos/0rwanda/datos/levels.py:13
 msgid "Kibuye"
-msgstr ""
+msgstr "ქიბუიე"
 
 #: recursos/0rwanda/datos/0rwanda.py:23 recursos/0rwanda/datos/levels.py:14
 msgid "Byumba"
-msgstr ""
+msgstr "ბიუმბა"
 
 #: recursos/0rwanda/datos/0rwanda.py:24 recursos/0rwanda/datos/levels.py:15
 msgid "Rwamagana"
-msgstr ""
+msgstr "რუამაგანა"
 
 #: recursos/0rwanda/datos/0rwanda.py:28 recursos/0rwanda/datos/levels.py:16
 msgid "Kicukiro"
-msgstr ""
+msgstr "კიცუკირო"
 
 #: recursos/0rwanda/datos/0rwanda.py:29 recursos/0rwanda/datos/levels.py:17
 msgid "Butamwa"
-msgstr ""
+msgstr "ბუტამუა"
 
 #: recursos/0rwanda/datos/0rwanda.py:30 recursos/0rwanda/datos/levels.py:19
 msgid "Kiyumba"
-msgstr ""
+msgstr "კიიუმბა"
 
 #: recursos/0rwanda/datos/0rwanda.py:31 recursos/0rwanda/datos/levels.py:20
 msgid "Runda"
-msgstr ""
+msgstr "რუნდა"
 
 #: recursos/0rwanda/datos/0rwanda.py:32 recursos/0rwanda/datos/levels.py:21
 msgid "Bulinga"
-msgstr ""
+msgstr "ბულინგა"
 
 #: recursos/0rwanda/datos/0rwanda.py:33 recursos/0rwanda/datos/levels.py:22
 msgid "Gitarama"
-msgstr ""
+msgstr "გიტარამა"
 
 #: recursos/0rwanda/datos/0rwanda.py:34 recursos/0rwanda/datos/levels.py:23
 msgid "Masango"
-msgstr ""
+msgstr "მასანგო"
 
 #: recursos/0rwanda/datos/0rwanda.py:35 recursos/0rwanda/datos/levels.py:24
 msgid "Ruhango"
-msgstr ""
+msgstr "რუჰანგო"
 
 #: recursos/0rwanda/datos/0rwanda.py:36 recursos/0rwanda/datos/levels.py:25
 msgid "Gatagara"
-msgstr ""
+msgstr "გატაგა"
 
 #: recursos/0rwanda/datos/0rwanda.py:37 recursos/0rwanda/datos/levels.py:26
 msgid "Rusatira"
-msgstr ""
+msgstr "რუსატირა"
 
 #: recursos/0rwanda/datos/0rwanda.py:38 recursos/0rwanda/datos/levels.py:27
 msgid "Kaduha"
-msgstr ""
+msgstr "კადუჰა"
 
 #: recursos/0rwanda/datos/0rwanda.py:39 recursos/0rwanda/datos/levels.py:28
 msgid "Karaba"
-msgstr ""
+msgstr "კარაბა"
 
 #: recursos/0rwanda/datos/0rwanda.py:40 recursos/0rwanda/datos/levels.py:29
 msgid "Gikongoro"
-msgstr ""
+msgstr "გიკონგორო"
 
 #: recursos/0rwanda/datos/0rwanda.py:41 recursos/0rwanda/datos/levels.py:30
 msgid "Karama"
-msgstr ""
+msgstr "კარამა"
 
 #: recursos/0rwanda/datos/0rwanda.py:42 recursos/0rwanda/datos/levels.py:31
 msgid "Kitabi"
-msgstr ""
+msgstr "კიტაბი"
 
 #: recursos/0rwanda/datos/0rwanda.py:43 recursos/0rwanda/datos/levels.py:32
 msgid "Butare"
-msgstr ""
+msgstr "ბუტარე"
 
 #: recursos/0rwanda/datos/0rwanda.py:44 recursos/0rwanda/datos/levels.py:33
 msgid "Gisagara"
-msgstr ""
+msgstr "გისაგარა"
 
 #: recursos/0rwanda/datos/0rwanda.py:45 recursos/0rwanda/datos/levels.py:34
 msgid "Ruramba"
-msgstr ""
+msgstr "რურამბა"
 
 #: recursos/0rwanda/datos/0rwanda.py:46 recursos/0rwanda/datos/levels.py:35
 msgid "Busoro"
-msgstr ""
+msgstr "ბუსორო"
 
 #: recursos/0rwanda/datos/0rwanda.py:47 recursos/0rwanda/datos/levels.py:36
 msgid "Munini"
-msgstr ""
+msgstr "მუნინი"
 
 #: recursos/0rwanda/datos/0rwanda.py:48 recursos/0rwanda/datos/levels.py:37
 msgid "Runyombyi"
-msgstr ""
+msgstr "რუნყომბიი"
 
 #: recursos/0rwanda/datos/0rwanda.py:49 recursos/0rwanda/datos/levels.py:38
 msgid "Kagitumba"
